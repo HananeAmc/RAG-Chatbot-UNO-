@@ -43,7 +43,7 @@ Pipeline RAG
 ### 1. Cloner le repository
 
 ```bash
-git clone https://github.com/votre-username/uno-rag-chatbot.git
+git clone https://github.com/HananeAmc/RAG-Chatbot-UNO-.git
 cd uno-rag-chatbot
 ```
 
